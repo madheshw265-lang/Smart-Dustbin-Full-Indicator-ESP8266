@@ -1,0 +1,6 @@
+ESP8266 NodeMCU
+HC-SR04 Ultrasonic Sensor
+LED
+220 Ohm Resistor
+Breadboard
+Jumper Wires
