@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Smart Dustbin Banner" width="100%">
+</p>
 # 🗑️ Smart Dustbin Full Indicator using ESP8266
 
 An IoT-based Smart Dustbin Full Indicator using an **ESP8266 NodeMCU** and **HC-SR04 Ultrasonic Sensor**. The system detects the garbage level inside a dustbin and blinks an LED when the bin becomes full.
